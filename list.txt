@@ -1,0 +1,6 @@
+Nama-nama Barang :
+1. Lemari 
+2. Bantal
+3. Kasur
+4. Meja
+5. Kursi
